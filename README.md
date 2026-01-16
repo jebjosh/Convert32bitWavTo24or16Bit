@@ -12,3 +12,6 @@ brew install ffmpeg
 Windows
 Download from: https://ffmpeg.org/download.html (ffmpeg.org )  
 Add ffmpeg.exe to PATH.
+
+gui version removes latency
+<img width="863" height="1189" alt="image" src="https://github.com/user-attachments/assets/51292862-5bcd-45ce-917d-8b9d527ce851" />
