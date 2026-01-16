@@ -10,5 +10,5 @@ macOS
 Code
 brew install ffmpeg
 Windows
-Download from: https://ffmpeg.org/download.html (ffmpeg.org in Bing)  
+Download from: https://ffmpeg.org/download.html (ffmpeg.org )  
 Add ffmpeg.exe to PATH.
